@@ -1,0 +1,3 @@
+[submodule "drivers/net/ethernet/nvidia/nvethernet/nvethernetrm"]
+	path = drivers/net/ethernet/nvidia/nvethernet/nvethernetrm
+	url = https://github.com/ai-blox/l4t5-kernel-nvidia-drivers-net-ethernet-nvidia-nvethernet-nvethernetrm.git
